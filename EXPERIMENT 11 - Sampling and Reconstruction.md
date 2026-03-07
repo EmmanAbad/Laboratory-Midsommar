@@ -112,7 +112,7 @@ https://github.com/user-attachments/assets/f39b0dca-4b08-4635-89be-7376e2d7779d
 
 **Question 5 — For a 2 kHz message, what is the theoretical minimum sampling frequency?**
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;TAccording to the Nyquist Criteria, the rate must be at least twice the highest frequency, which is 4 kHz.
+&nbsp;&nbsp;&nbsp;&nbsp;According to the Nyquist Criteria, the rate must be at least twice the highest frequency, which is 4 kHz.
 </p>
 
 **Question 6 — Why is the actual minimum sampling frequency higher than the theoretical minimum?**
