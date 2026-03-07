@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Amplitude modulation systems like AM, DSBSC, and SSB have a major drawback because they easily pick up electrical noise in the channel. This happens since noise affects the amplitude of the signal, which these systems rely on, so demodulators get disturbed by amplitude changes. Frequency modulation, on the other hand, varies the carrier frequency according to the message amplitude while keeping the carrier amplitude constant. FM demodulators respond to frequency changes, not amplitude, making FM less sensitive to noise and generally more reliable for communication. FM signals are generated using an oscillator whose frequency can be adjusted by an input voltage. When the input is zero, the oscillator runs at its rest or center frequency. If the voltage rises or falls, the output frequency shifts above or below this value, and larger input voltages produce greater frequency deviation.
 </p>
 
-<img width="493" height="291" alt="image" src="https://github.com/user-attachments/assets/06ddf593-2297-41aa-8740-57a2eb7cd2c7" />
+<img width="367" height="272" alt="image" src="https://github.com/user-attachments/assets/d0b8fa00-3105-4d8e-81a9-c5744c38c3c9" />
 
 ---
 
@@ -42,7 +42,7 @@
 7. Modify the setup as shown in Figure 3, noting the new connection to the VCO output.
 
 **Part A: Result**
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/91f638ca-3e91-4299-bede-efa0b0b4a449" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/8a048be8-88c7-48c9-a4b8-b4c5cbed589b" />
 **Learning**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;This section demonstrates the fundamental mechanism of a Voltage-Controlled Oscillator (VCO). It shows that the carrier frequency shifts above or below its center frequency in direct proportion to the high and low voltage levels of a squarewave input.
@@ -58,7 +58,7 @@
 5. Hum quietly into the microphone and gradually increase volume without changing pitch, watching the FM waveform on the scope.
 
 **Part B: Result**
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/ba6b7d88-2a52-479a-93eb-b1c6a8d2609c" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/e365fb4a-3a1c-4808-b88d-586fd78ca43b" />
 **Learning**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;This part highlights the proportional relationship between message amplitude and frequency deviation. By singing or humming into the microphone, you observe that increasing the volume (amplitude) results in a larger shift in the carrier frequency, while the pitch (frequency) of the voice determines how rapidly that shift occurs.
@@ -75,7 +75,7 @@
 6. Observe that the FM signal’s spectrum is complex regardless of the message waveform.
 
 **Part C: Result**
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/70884a83-ffae-4358-9ba4-97abf0c14dc4" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/b7f0d04f-e34e-495b-98f2-1cdd4a0d1e58" />
 **Learning**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;This experiment focuses on the spectral composition of the FM signal, demonstrating that frequency modulation produces a signal rich in sinewave components. By observing the FM signal on the oscilloscope while switching between the 2 kHz digital signal and the Speech module output, the experimenter can see that the resulting spectrum remains complex regardless of whether the message waveform is a simple pulse or human voice. This phase emphasizes that the FM signal’s spectrum is inherently intricate and contains multiple frequencies across its highest, lowest, and intermediate ranges.
@@ -84,8 +84,7 @@
 **Video Result** 
 
 
-https://github.com/user-attachments/assets/76b67206-182d-40fc-8406-5b6163c7e0bc
-
+https://github.com/user-attachments/assets/906ae805-1ab6-42ad-8155-4c7cfe4f3e10
 
 
 ---
