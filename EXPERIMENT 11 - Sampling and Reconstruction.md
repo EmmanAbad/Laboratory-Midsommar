@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Figure 1a illustrates a message consisting of a pure sinewave alongside the digital sampling signal used to trigger measurements. The resulting waveform shows natural sampling where the sample follows any voltage changes occurring during the measurement period. Some digital systems cannot function with these changing samples so an alternative approach is used as seen in Figure 1b. This method is known as sample and hold or pulse amplitude modulation and it ensures the sample size remains fixed at the exact moment the signal is measured.
 </p>
 
-<img width="558" height="359" alt="image" src="https://github.com/user-attachments/assets/0403fbf0-ef52-4523-b48a-7e4fb01ed54e" />
+<img width="383" height="246" alt="image" src="https://github.com/user-attachments/assets/5fd5192f-98cd-4b30-8c13-e42ecc090eae" />
 
 ---
 
