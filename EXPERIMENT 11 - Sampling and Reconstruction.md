@@ -62,21 +62,21 @@
 3. Update the set-up as shown in Figure 9, using the VCO module to provide a variable sampling frequency to the S/H control input.
 
 **Waveforms Results**
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/77acde53-7534-45f2-9ea8-c8f9fc8d9270" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/a0145970-1771-4058-b04f-f42f1c7b8281" />
 
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/20114f22-6582-4628-af49-9c102502e9e7" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/3b775d00-812f-4097-a013-8ae06cfabd6f" />
 
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/944b9489-400e-4c16-b383-7c2203ea1385" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/f7dfa261-ab91-4934-96f7-7f2408d5a89c" />
 
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/55630c72-10cd-4667-a53d-f3085b945813" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/fe64918c-945e-4578-8a11-7a3176b5bcda" />
 
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/06d489a0-bb54-41ca-b9ac-bf0d5405f758" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/0edf1004-14b0-4050-ac04-628c51a6cef7" />
 
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/df675967-2e1d-4fa2-88d7-c2533efe2693" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/de441582-4521-4052-90d7-28f3854acb7d" />
 
 
 
-https://github.com/user-attachments/assets/f39b0dca-4b08-4635-89be-7376e2d7779d
+https://github.com/user-attachments/assets/54ed6d04-ab21-4dd7-810b-869b987bcb91
 
 
 
