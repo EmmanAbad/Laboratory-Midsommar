@@ -147,7 +147,7 @@ https://github.com/user-attachments/assets/5f48f164-6ba3-416e-9625-1d205a73fbba
 
 ### Learnings
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;TThe lab work showed that PCM encoding is highly dependent on both the sampling rate and the resolution of quantization levels. It was observed that even with a steady DC input, the output bits can fluctuate if the signal sits right on the edge of two levels. Understanding the role of the Frame Synchronisation signal proved vital for correctly reading the serial data on an oscilloscope. Furthermore, it became clear that the 8-bit limitation of the codec chip defines the precision of the entire system.
+&nbsp;&nbsp;&nbsp;&nbsp;The lab work showed that PCM encoding is highly dependent on both the sampling rate and the resolution of quantization levels. It was observed that even with a steady DC input, the output bits can fluctuate if the signal sits right on the edge of two levels. Understanding the role of the Frame Synchronisation signal proved vital for correctly reading the serial data on an oscilloscope. Furthermore, it became clear that the 8-bit limitation of the codec chip defines the precision of the entire system.
 </p>
 
 ---
