@@ -64,7 +64,7 @@
 3. Set the oscilloscope timebase to 50µs/div to monitor the resulting PCM data output.
 4. Observe how the binary stream changes in real-time as the analog input fluctuates over time.
 
-**Waveforms Result**
+**Waveform Result**
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/61a240aa-870c-4396-9814-42b4434148e8" />
 
 **Learning**
