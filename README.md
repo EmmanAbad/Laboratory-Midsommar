@@ -37,7 +37,7 @@
 **WAVEFORM RESULT EXAMPLE**
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/5036cfd5-fe86-441b-a349-67f4f0a01356" />
 
-[https://github.com/EmmanAbad/Laboratory-Midsommar/blob/main/EXPERIMENT%209%20-%20Frequency%20Modulation.md](https://github.com/EmmanAbad/LABORATORY-MIDSOMMAR-PLACEHOLDER/blob/main/EXPERIMENT%2010%20-%20FM%20Demodulation.md)
+[View Experiment 9 Details] https://github.com/EmmanAbad/Laboratory-Midsommar/blob/main/EXPERIMENT%209%20-%20Frequency%20Modulation.md
 
 </details>
 
@@ -53,6 +53,8 @@
 
 **WAVEFORM RESULT EXAMPLE**
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/8934f2f8-df79-4b29-8b18-b1e31d934578" />
+
+[View Experiment 10 Details] https://github.com/EmmanAbad/Laboratory-Midsommar/blob/main/EXPERIMENT%2010%20-%20FM%20Demodulation.md
 
 
 </details>
@@ -70,6 +72,8 @@
 **WAVEFORM RESULT EXAMPLE**
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/b1f7f952-b649-4da2-abf4-1bf4244fef30" />
 
+[View Experiment 11 Details] https://github.com/EmmanAbad/Laboratory-Midsommar/blob/main/EXPERIMENT%2011%20-%20Sampling%20and%20Reconstruction.md
+
 </details>
 
 ---
@@ -86,6 +90,8 @@
 **WAVEFORM RESULT EXAMPLE**
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/37576e84-703d-44fb-aaea-a33d1d5e8f2b" />
 
+[View Experiment 12 Details] https://github.com/EmmanAbad/Laboratory-Midsommar/blob/main/EXPERIMENT%2012%20-%20PCM%20Encoding.md
+
 </details>
 
 ---
@@ -101,6 +107,7 @@
 **WAVEFORM RESULT EXAMPLE**
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/89388987-1215-42f8-a758-497f3475f52e" />
 
+[View Experiment 13 Details] https://github.com/EmmanAbad/Laboratory-Midsommar/blob/main/EXPERIMENT%2013%20-%20PCM%20Decoding.md
 
 </details>
 
@@ -116,6 +123,8 @@
 
 **WAVEFORM RESULT EXAMPLE**
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/75614157-3f98-4d61-b7aa-9787ff6f8495" />
+
+[View Experiment 13 Details] https://github.com/EmmanAbad/Laboratory-Midsommar/blob/main/EXPERIMENT%2014%20-%20Bandwidth%20Limiting%20and%20Restoring%20Digital%20Signals.md
 
 </details>
 
