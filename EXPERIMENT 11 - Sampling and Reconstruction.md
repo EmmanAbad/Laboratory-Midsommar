@@ -74,12 +74,6 @@
 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/de441582-4521-4052-90d7-28f3854acb7d" />
 
-
-
-https://github.com/user-attachments/assets/54ed6d04-ab21-4dd7-810b-869b987bcb91
-
-
-
 **Learning**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;This experiment demonstrates that digital communication depends on converting continuous analog signals into discrete samples and back again without loss of information. Through Parts A and B, it was observed that while natural sampling follows the message's voltage changes, the Sample and Hold (S/H) method is more effective for digital systems because it maintains a fixed voltage level for each interval.
