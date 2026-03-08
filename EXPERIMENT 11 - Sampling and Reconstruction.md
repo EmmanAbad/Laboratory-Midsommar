@@ -70,8 +70,6 @@
 
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/fe64918c-945e-4578-8a11-7a3176b5bcda" />
 
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/0edf1004-14b0-4050-ac04-628c51a6cef7" />
-
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/de441582-4521-4052-90d7-28f3854acb7d" />
 
 **Learning**
