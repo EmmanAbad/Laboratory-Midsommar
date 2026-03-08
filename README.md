@@ -37,6 +37,8 @@
 **WAVEFORM RESULT EXAMPLE**
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/5036cfd5-fe86-441b-a349-67f4f0a01356" />
 
+[https://github.com/EmmanAbad/Laboratory-Midsommar/blob/main/EXPERIMENT%209%20-%20Frequency%20Modulation.md](https://github.com/EmmanAbad/LABORATORY-MIDSOMMAR-PLACEHOLDER/blob/main/EXPERIMENT%2010%20-%20FM%20Demodulation.md)
+
 </details>
 
 ---
@@ -51,6 +53,7 @@
 
 **WAVEFORM RESULT EXAMPLE**
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/8934f2f8-df79-4b29-8b18-b1e31d934578" />
+
 
 </details>
 
