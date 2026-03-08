@@ -65,15 +65,7 @@
 4. Observe how the binary stream changes in real-time as the analog input fluctuates over time.
 
 **Waveforms Result**
-<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/a6b7139b-6d82-4998-a627-49f0744d7571" />
-
 <img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/61a240aa-870c-4396-9814-42b4434148e8" />
-
-
-
-https://github.com/user-attachments/assets/5f48f164-6ba3-416e-9625-1d205a73fbba
-
-
 
 **Learning**
 <p align="justify">
